@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "726266602594",
+    "project_id": "employeeportal-59781",
+    "storage_bucket": "employeeportal-59781.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726266602594:android:fcf9f0e2b0775ac0a35d3b",
+        "android_client_info": {
+          "package_name": "myapp.employeeportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726266602594-p1lffmgi9gv4ifal2r7da6t9itcu00cv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNcVIDE-4SjXSET95MdigOGucGvWmEAng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726266602594-p1lffmgi9gv4ifal2r7da6t9itcu00cv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "726266602594-21rv4t8aon79tk6odqa02mnpuej1vp4k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "myapp.employeeportal"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
